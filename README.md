@@ -4,7 +4,7 @@ A modern, minimal platform for Managing Teacher. Built with Next.js, Tailwind CS
 
 ## Live Demo
 
-[]()
+[teacher-management-webapp.netlify.app](https://teacher-management-webapp.netlify.app/)
 
 ## Demo Video
 
